@@ -1,6 +1,7 @@
 # E2E
 after cloning the repo
- 
+  create a new app on virgil and take the 
+  
 APP_ID=Virgil App ID   
 
 APP_KEY_ID=VIRGI KEY ID
