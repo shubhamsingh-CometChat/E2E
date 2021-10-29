@@ -23,7 +23,6 @@ const AllGroups = ({ history }) => {
   };
   return (
     <>
-      <h1>All groups you havent join</h1>
       <h2 style={{ background: 'red' }}>Owner of groups </h2>
       <h3>Click here to add members in your group</h3>
       {ownerGroup.map((group, key) => {
