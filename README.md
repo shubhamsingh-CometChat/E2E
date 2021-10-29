@@ -1,13 +1,18 @@
 # E2E
 after cloning the repo
  
-APP_ID=Virgil App ID
+APP_ID=Virgil App ID   
+
 APP_KEY_ID=VIRGI KEY ID
+
 APP_KEY=VIRGIL AAP KEY
+
 
 put all this into a in Server folder of .env file
 
+
 and do npm i after do npm start
+
 
 
 
